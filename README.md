@@ -1,7 +1,7 @@
 # LINQPad-Queries
 LINQPad Queries
 
-##　SOLID
+## SOLID
 
 - S: Single responsibility principle(SRP) 單一職責
 
